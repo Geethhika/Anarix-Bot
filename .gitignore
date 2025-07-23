@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Node modules (frontend)
+chat-ui/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+node_modules
+package-lock.json
